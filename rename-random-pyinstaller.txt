@@ -1,2 +1,0 @@
-Generate executable:
-pyinstaller "Rename-Random-v2.py" --upx-dir "__upx_dir__" --noconsole --uac-admin --icon "rename-icon.ico" --onefile --name "Rename-Random-v2" --clean --key "_key_"
