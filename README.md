@@ -1,5 +1,5 @@
 # Rename-Random
-Randomly renames files in same folder
+Randomly renames files in the same folder
 
 
 ### **!!!CAUTION!!!**
